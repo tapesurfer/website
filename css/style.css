@@ -105,7 +105,7 @@ img {
 .hero-bg {
   position: absolute;
   inset: 0;
-  background: url("../assets/banners/background-3840.png") center/cover no-repeat;
+  background: url("../assets/banners/background-3840.png") right center/cover no-repeat;
   opacity: 0.3;
   z-index: -1;
 }
