@@ -354,6 +354,27 @@ section {
   object-fit: cover;
 }
 
+/* clips */
+.clips {
+  background: var(--bg-section);
+}
+
+.clips-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.clips-grid video {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  background: #000;
+}
+
 /* press kit */
 .press {
   background: var(--bg-section);
@@ -519,6 +540,10 @@ section {
 
   .screenshots-grid {
     grid-template-columns: 1fr 1fr;
+  }
+
+  .clips-grid {
+    grid-template-columns: 1fr;
   }
 
   .features-grid {
