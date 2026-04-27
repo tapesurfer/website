@@ -1,0 +1,13 @@
+This application does not collect, store, or share any personal information from its users.
+
+We do not collect personally identifiable information such as names, email addresses, or location data. Additionally, this app does not use analytics tools, advertising services, or third-party SDKs that may collect user data.
+
+This app is suitable for all ages, including children under 13. Since no personal data is collected, no information from children is stored or processed.
+
+We do not use any third-party services that collect or process user data.
+
+Since no data is collected, there is no risk of user data being accessed, shared, or misused.
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page.
+
+If you have any questions, you can contact us at: info@tapesurfer.com
